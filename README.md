@@ -1,6 +1,10 @@
 # Cudos Name Service
 
-This is a sample application for the Cudos blockchain. This application demonstrates basic features of CosmWasm and Cudos. To learn how to deploy this application on Cudos, please see `INSTRUCTIONS.md`. To compile this smart contract, do so using `rust-optimiser`, as given below:
+This is a sample application for the Cudos blockchain. This application demonstrates basic features of CosmWasm and Cudos.
+For the video demo of this application being built, head to:
+https://youtu.be/CFN2Droh8Sw
+
+To learn how to deploy this application on Cudos, please see `INSTRUCTIONS.md`. To compile this smart contract, do so using `rust-optimiser`, as given below:
 
 ```
 docker run --rm -v "$(pwd)":/code \
